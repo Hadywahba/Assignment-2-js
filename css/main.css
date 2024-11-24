@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Impact;
+    src: url(../impact-font/impact.ttf);
+}
+@font-face {
+    font-family: Times;
+    src: url(../webfonts/times\ new\ roman.ttf);
+}
+body{
+    font-family: Times;
+}
+h1.title{
+    font-family: Impact;
+    font-size: 5rem;
+}
+button{
+    width: 15.6rem;
+    background-color: blue;
+    color: white;
+  
+}
+button:hover{
+    background-color: green;
+}
